@@ -23,3 +23,6 @@ I create smart bots and automated systems. I understand trading, algorithmic tra
 
 <!-- Для SVG -->
 ![GitHub Snake](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg)
+
+<!-- Для GIF -->
+![GitHub Snake](https://raw.githubusercontent.com/USERNAME/USERNAME/output/ocean.gif)
