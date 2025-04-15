@@ -20,3 +20,6 @@ I create smart bots and automated systems. I understand trading, algorithmic tra
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AngryX-27&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Для SVG -->
+![GitHub Snake](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg)
