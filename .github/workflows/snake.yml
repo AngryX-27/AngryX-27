@@ -1,5 +1,9 @@
 name: GitHub Snake Game
 
+# Добавляем нужные права в workflow
+permissions:
+  contents: write
+
 on:
   # Запуск по расписанию: ежедневно в полночь по UTC
   schedule:
