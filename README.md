@@ -21,8 +21,6 @@ I create smart bots and automated systems. I understand trading, algorithmic tra
 ---
 [![](https://visitcount.itsvg.in/api?id=AngryX-27&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Для SVG -->
-![GitHub Snake](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg)
 
-<!-- Для GIF -->
-![GitHub Snake](https://raw.githubusercontent.com/USERNAME/USERNAME/output/ocean.gif)
+
+![snake_gif](https://github.com/AngryX-27/AngryX-27/blob/output/github-snake-dark.svg)
