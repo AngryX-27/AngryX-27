@@ -7,7 +7,14 @@
 -->
 
 # 💫 About Me:
-I create smart bots and automated systems. I understand trading, algorithmic trading and AI-technologies. I work with Python and use other advanced technologies
+
+Hi! My name is Grigoriy, and I am an entrepreneur and the founder of GR Group Company. We specialize in providing high-quality services across areas such as IT development, finance, marketing, design, analytics, and business process automation.
+
+In addition to running my own company, I actively engage in IT development myself. My personal interests encompass cutting-edge and relevant fields including financial technologies (FinTech), blockchain technology, cryptocurrencies, artificial intelligence (AI), machine learning (ML), and automation using advanced tools and platforms.
+
+I strive to create projects that combine innovative solutions with tangible business benefits. My portfolio reflects my passion for quality, attention to detail, and the efficient use of technology.
+
+I look forward to discussing potential collaborations and helping bring your ideas to life!
 
 <!-- ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Link) - это думаю не надо
